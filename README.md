@@ -15,3 +15,9 @@ The most important hyper-parameters of the models were tuned using grid search m
 The best configuration of each model for each cryptocurrency was evaluated on the relevant test set. 
 The RMSE results and plots of "predicted Vs. Real" can be found inside the notebook. 
 While the RNN was found to be the best model for three of the cryptocurrencies, the best models for the Binance_coin and XRP are BiLSTM and LSTM respectively. 
+
+![image](https://user-images.githubusercontent.com/46126394/195234005-dc00747e-6364-4a32-8ccc-49feafbe278a.png)
+![image](https://user-images.githubusercontent.com/46126394/195234024-06079d00-8ae2-41db-a374-c309b8f56a3c.png)
+![image](https://user-images.githubusercontent.com/46126394/195234029-db50befc-63b1-4b6b-8f49-f8bf951c586d.png)
+![image](https://user-images.githubusercontent.com/46126394/195234044-1b1fe002-682b-4a09-a69e-7391b53e6f56.png)
+![image](https://user-images.githubusercontent.com/46126394/195234065-4065cb06-d9b3-4f47-bc27-9a9b5719b391.png)
